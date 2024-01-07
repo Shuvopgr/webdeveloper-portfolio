@@ -159,7 +159,11 @@ font-weight: 700;
 /* footer style */
 footer{
     display: flex;
+    gap: 100px;
     background: #fff4f3;
     margin-top: 100px;
     padding: 130px 200px;
+}
+.footer-column{
+    width: 50%;
 }
